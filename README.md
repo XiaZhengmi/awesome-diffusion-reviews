@@ -54,7 +54,17 @@ A curated list of **review papers and resources** on diffusion models in **machi
 - [YouTube: Intro to Diffusion Models (AssemblyAI)](https://www.youtube.com/watch?v=HoKDTa5jHvg)
 
 ---
+## 🚀 Quick Start on Google Colab
 
+If you're looking for a simple way to try out diffusion models without setting up a local environment, you can use Google Colab:
+
+- [🧨 Stable Diffusion](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
+- [🧨 DDPM](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/generative/ipynb/ddpm.ipynb)
+- [🧨 DDIM](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit4/01_ddim_inversion.ipynb)
+
+Just click the link above and follow the instructions to get started in your browser with free GPU support.
+
+---
 ## 🤝 Contributing
 
 Feel free to open issues or pull requests to add new review papers or tutorials on diffusion models!
