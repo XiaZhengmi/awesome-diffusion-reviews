@@ -15,6 +15,8 @@ A curated list of **review papers and resources** on diffusion models in **machi
 - [Efficient diffusion models: A survey](https://arxiv.org/pdf/2502.06805) – **H. Shen et al.**
 - [Comprehensive exploration of diffusion models in image generation: a survey](https://link.springer.com/content/pdf/10.1007/s10462-025-11110-3.pdf) – **H. Chen et al.**
 - [Diffusion Models for Computational Neuroimaging: A Survey](https://arxiv.org/pdf/2502.06552)- **H Zhao et a.** 🩺 **Medical**
+- [Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/abs/2505.07866) – **Abdullah et al.**  🩺 **Medical**
+
 
 ---
 
@@ -44,7 +46,6 @@ A curated list of **review papers and resources** on diffusion models in **machi
 ## 🩺 Medical Diffusion Models
 ### 🩺2025
 
-- [Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/abs/2505.07866) – **Abdullah et al.** (May 9, 2025)  
 - [A diffusion model for universal medical image enhancement (UniMIE)](https://doi.org/10.1038/s43856-025-00998-1) – **Fei et al., Nature Communications** (July 15, 2025)  
 - [Self-Attention Diffusion Models for Zero-Shot Biomedical Image Segmentation: Unlocking New Frontiers in Medical Imaging
 ](https://arxiv.org/pdf/2503.18170) – **Hamrani & Godavarty** (2025)  
