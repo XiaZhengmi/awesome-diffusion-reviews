@@ -49,7 +49,6 @@ A curated list of **review papers and resources** on diffusion models in **machi
 - [Self-Attention Diffusion Models for Zero-Shot Biomedical Image Segmentation: Unlocking New Frontiers in Medical Imaging
 ](https://arxiv.org/pdf/2503.18170) – **Hamrani & Godavarty** (2025)  
 - [Diffusion-driven SpatioTemporal Graph KANsformer for Medical Examination Recommendation](https://arxiv.org/pdf/2505.07431) – **Li et al.** (2025)  
-- [Diffusion Models for Computational Neuroimaging: A Survey](URL_not_found) – **Zhao et al.** (2025)  
 
 ### 🩺 2024
 
