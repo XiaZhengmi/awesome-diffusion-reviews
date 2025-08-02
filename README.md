@@ -40,7 +40,8 @@ A curated list of **review papers and resources** on diffusion models in **machi
 ---
 
 
-#### 🩺🗓️ 2025 – Medical Diffusion Models
+## 🩺 Medical Diffusion Models
+### 🩺2025
 
 - [Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/abs/2505.07866) – **Abdullah et al.** (May 9, 2025)  
 - [A diffusion model for universal medical image enhancement (UniMIE)](https://doi.org/10.1038/s43856-025-00998-1) – **Fei et al., Nature Communications** (July 15, 2025)  
@@ -48,7 +49,7 @@ A curated list of **review papers and resources** on diffusion models in **machi
 - [Diffusion‑driven SpatioTemporal Graph KANsformer (DST‑GKAN)](URL_not_found) – **Li et al.** (2025)  
 - [Diffusion Models for Computational Neuroimaging: A Survey](URL_not_found) – **Zhao et al.** (2025)  
 
-### 🩺🗓️ 2024
+### 🩺 2024
 
 - [MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model](URL_not_found) – **Junde Wu et al., MIDL 2024**  
 - [Analysing Diffusion Segmentation for Medical Images](URL_not_found) – **Öttl et al., arXiv (Mar 2024)**  
@@ -58,7 +59,7 @@ A curated list of **review papers and resources** on diffusion models in **machi
 - [Seg‑Diff: Anatomically‑Controllable Medical Image Generation](URL_not_found) – **Konz et al., MICCAI 2024**  
 - [SDSeg: Stable Diffusion Segmentation for Biomedical Images](URL_not_found) – **MICCAI 2024**  
 
-### 🩺🗓️ 2023 
+### 🩺 2023 
 
 - [BerDiff: Conditional Bernoulli Diffusion Model for Medical Image Segmentation](URL_not_found) – **Chen et al., arXiv (Apr 2023)**  
 - [MedSegDiff‑V2: Diffusion‑based Medical Image Segmentation with Transformer](URL_not_found) – **Wu et al., arXiv (Jan 2023)**  
@@ -66,7 +67,7 @@ A curated list of **review papers and resources** on diffusion models in **machi
 - [DDMM‑Synth: Denoising Diffusion Model for Cross‑modal Medical Image Synthesis](URL_not_found) – **Li et al., arXiv (Mar 2023)**  
 - [DiffBoost: Enhancing Medical Image Segmentation via Text‑Guided Diffusion Model](URL_not_found) – **Zhang et al., arXiv (Oct 2023)**  
 
-### 🩺🗓️ 2022
+### 🩺 2022
 
 - [MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model](https://arxiv.org/pdf/2211.00611) – **Wu et al., arXiv (Nov 2022)**  
 - [Diffusion Models for Implicit Image Segmentation Ensembles](https://proceedings.mlr.press/v172/wolleb22a/wolleb22a.pdf) – **Wolleb et al., MIDL 2022**  
