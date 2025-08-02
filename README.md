@@ -14,6 +14,7 @@ A curated list of **review papers and resources** on diffusion models in **machi
 - [Diffusion Models in Recommendation Systems: A Survey](https://arxiv.org/pdf/2501.10548) – **T.R. Wei et al.**
 - [Efficient diffusion models: A survey](https://arxiv.org/pdf/2502.06805) – **H. Shen et al.**
 - [Comprehensive exploration of diffusion models in image generation: a survey](https://link.springer.com/content/pdf/10.1007/s10462-025-11110-3.pdf) – **H. Chen et al.**
+- [Diffusion Models for Computational Neuroimaging: A Survey](https://arxiv.org/pdf/2502.06552)- **H Zhao et a.** 🩺 **Medical**
 
 ---
 
@@ -45,19 +46,20 @@ A curated list of **review papers and resources** on diffusion models in **machi
 
 - [Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/abs/2505.07866) – **Abdullah et al.** (May 9, 2025)  
 - [A diffusion model for universal medical image enhancement (UniMIE)](https://doi.org/10.1038/s43856-025-00998-1) – **Fei et al., Nature Communications** (July 15, 2025)  
-- [Self‑Attention Diffusion Models for Zero‑Shot Biomedical Image Segmentation (ADZUS)](URL_not_found) – **Hamrani & Godavarty** (2025)  
-- [Diffusion‑driven SpatioTemporal Graph KANsformer (DST‑GKAN)](URL_not_found) – **Li et al.** (2025)  
+- [Self-Attention Diffusion Models for Zero-Shot Biomedical Image Segmentation: Unlocking New Frontiers in Medical Imaging
+](https://arxiv.org/pdf/2503.18170) – **Hamrani & Godavarty** (2025)  
+- [Diffusion-driven SpatioTemporal Graph KANsformer for Medical Examination Recommendation](https://arxiv.org/pdf/2505.07431) – **Li et al.** (2025)  
 - [Diffusion Models for Computational Neuroimaging: A Survey](URL_not_found) – **Zhao et al.** (2025)  
 
 ### 🩺 2024
 
-- [MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model](URL_not_found) – **Junde Wu et al., MIDL 2024**  
-- [Analysing Diffusion Segmentation for Medical Images](URL_not_found) – **Öttl et al., arXiv (Mar 2024)**  
-- [Latent Diffusion for Medical Image Segmentation (LDSeg)](URL_not_found) – **Zaman et al., arXiv (Jul 2024)**  
-- [HiDiff: Hybrid Diffusion for Medical Image Segmentation](URL_not_found) – **Chen et al., arXiv (Jul 2024)**  
-- [Polyp‑DDPM: Semantic Polyp Synthesis for Enhanced Segmentation](URL_not_found) – **Dorjsembe et al., arXiv (Feb 2024)**  
-- [Seg‑Diff: Anatomically‑Controllable Medical Image Generation](URL_not_found) – **Konz et al., MICCAI 2024**  
-- [SDSeg: Stable Diffusion Segmentation for Biomedical Images](URL_not_found) – **MICCAI 2024**  
+- [MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model](https://arxiv.org/pdf/2211.00611) – **Junde Wu et al., MIDL 2024**  
+- [Analysing Diffusion Segmentation for Medical Images](https://arxiv.org/pdf/2403.14440) – **Öttl et al., arXiv (Mar 2024)**  
+- [Latent Diffusion for Medical Image Segmentation: End to end learning for fast sampling and accuracy](https://arxiv.org/pdf/2407.12952) – **Zaman et al., arXiv (Jul 2024)**  
+- [HiDiff: Hybrid Diffusion for Medical Image Segmentation](https://arxiv.org/pdf/2407.03548) – **Chen et al., arXiv (Jul 2024)**  
+- [Polyp‑DDPM: Semantic Polyp Synthesis for Enhanced Segmentation](https://arxiv.org/pdf/2402.04031) – **Dorjsembe et al., arXiv (Feb 2024)**  
+- [Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models](https://arxiv.org/pdf/2402.05210) – **Konz et al., MICCAI 2024**  
+- [Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process](https://arxiv.org/pdf/2406.18361) – **MICCAI 2024**  
 
 ### 🩺 2023 
 
