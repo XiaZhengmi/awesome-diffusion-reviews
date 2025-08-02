@@ -42,77 +42,38 @@ A curated list of **review papers and resources** on diffusion models in **machi
 
 ### 🗓️ 2025 – Medical Diffusion Models
 
-- **Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review** – Abdullah et al. (May 2025)  
-  Examines **DDPM**, **LDM**, **WDM** for medical imaging; emphasizes inference speed and high-resolution use cases.
-
-- **A diffusion model for universal medical image enhancement (UniMIE)** – Nature Communications, 2025  
-  Unsupervised enhancement method across 13 medical modalities using a **training‑free diffusion model**.
-
-- **Self‑Attention Diffusion Models for Zero‑Shot Biomedical Image Segmentation (ADZUS)** – Hamrani & Godavarty, 2025  
-  Self‑attention diffusion enables **zero‑shot segmentation** across multiple anatomical domains.
-
-- **Diffusion‑driven SpatioTemporal Graph KANsformer (DST‑GKAN)** – Li et al., 2025  
-  Denoises heterogeneous medical record data via diffusion in support of recommendation systems.
-
-- **Diffusion Models for Computational Neuroimaging: A Survey** – Zhao et al., 2025  
-  Overview of **score/SDE‑based diffusion models** applied to neuroimaging tasks (reconstruction, diagnosis, generation).
+- [Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/abs/2505.07866) – **Abdullah et al.** (May 9, 2025)  
+- [A diffusion model for universal medical image enhancement (UniMIE)](https://doi.org/10.1038/s43856-025-00998-1) – **Fei et al., Nature Communications** (July 15, 2025)  
+- [Self‑Attention Diffusion Models for Zero‑Shot Biomedical Image Segmentation (ADZUS)](URL_not_found) – **Hamrani & Godavarty** (2025)  
+- [Diffusion‑driven SpatioTemporal Graph KANsformer (DST‑GKAN)](URL_not_found) – **Li et al.** (2025)  
+- [Diffusion Models for Computational Neuroimaging: A Survey](URL_not_found) – **Zhao et al.** (2025)  
 
 ### 🗓️ 2024 – Medical Diffusion Models
 
-- **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** – Junde Wu et al., MIDL 2024  
-  A **DDPM‑based framework** with dynamic conditional encoding and frequency-based filtering; robust across ultrasound, MRI, and fundus segmentation tasks.
-
-- **Analysing Diffusion Segmentation for Medical Images** – Öttl et al., arXiv (Mar 2024)  
-  Provides critical insights into diffusion-based segmentation vs. generation, exploring algorithmic behavior and task-specific design.
-
-- **Latent Diffusion for Medical Image Segmentation (LDSeg)** – Zaman et al., arXiv (Jul 2024)  
-  Utilizes **latent diffusion** for efficient and accurate segmentation of multiple organs, offering faster inference and lower memory usage.
-
-- **HiDiff: Hybrid Diffusion for Medical Image Segmentation** – Chen et al., arXiv (Jul 2024)  
-  Combines a traditional segmentor and a **Bernoulli diffusion model** (BBDM) for refinement, improving accuracy on brain, polyps, retina datasets.
-
-- **Polyp‑DDPM: Semantic Polyp Synthesis for Enhanced Segmentation** – Dorjsembe et al., arXiv (Feb 2024)  
-  Generates synthetic gastrointestinal images conditioned on masks, improves segmentation by adding high-quality annotated data.
-
-- **Seg‑Diff: Anatomically‑Controllable Medical Image Generation** – Konz et al., MICCAI 2024  
-  A **mask-guided diffusion model** designed for anatomically plausible image generation (e.g. breast MRI), including training with partial segmentation masks.
-
-- **SDSeg: Stable Diffusion Segmentation for Biomedical Images** – MICCAI 2024  
-  A **single-step reverse latent diffusion** model optimized for segmenting medical images—efficient, fast, and competitive with DDIM-based methods.
+- [MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model](URL_not_found) – **Junde Wu et al., MIDL 2024**  
+- [Analysing Diffusion Segmentation for Medical Images](URL_not_found) – **Öttl et al., arXiv (Mar 2024)**  
+- [Latent Diffusion for Medical Image Segmentation (LDSeg)](URL_not_found) – **Zaman et al., arXiv (Jul 2024)**  
+- [HiDiff: Hybrid Diffusion for Medical Image Segmentation](URL_not_found) – **Chen et al., arXiv (Jul 2024)**  
+- [Polyp‑DDPM: Semantic Polyp Synthesis for Enhanced Segmentation](URL_not_found) – **Dorjsembe et al., arXiv (Feb 2024)**  
+- [Seg‑Diff: Anatomically‑Controllable Medical Image Generation](URL_not_found) – **Konz et al., MICCAI 2024**  
+- [SDSeg: Stable Diffusion Segmentation for Biomedical Images](URL_not_found) – **MICCAI 2024**  
 
 ### 🗓️ 2023 – Medical Diffusion Models
 
-- **BerDiff: Conditional Bernoulli Diffusion Model for Medical Image Segmentation** – Chen et al., arXiv (Apr 2023)  
-  A novel **Bernoulli diffusion** approach for generating diverse and accurate segmentation masks in medical imaging.
-
-- **MedSegDiff‑V2: Diffusion-based Medical Image Segmentation with Transformer** – Wu et al., arXiv (Jan 2023)  
-  Hybrid **DDPM + Vision Transformer** framework delivering state-of-the-art segmentation results across 20 datasets.
-
-- **Diff‑UNet: A Diffusion Embedded Network for Volumetric Segmentation** – Xing et al., arXiv (Mar 2023)  
-  Embeds diffusion into UNet architecture for robust 3D organ segmentation in MRI/CT.
-
-- **DDMM‑Synth: Denoising Diffusion Model for Cross‑modal Medical Image Synthesis** – Li et al., arXiv (Mar 2023)  
-  Uses a **DDIM variant** to perform cross-modal synthesis (e.g., MRI→CT) with embedded measurement priors.
-
-- **DiffBoost: Enhancing Medical Image Segmentation via Text‑Guided Diffusion Model** – Zhang et al., arXiv (Oct 2023)  
-  Introduces **text-conditioned diffusion** to generate synthetic data that significantly boosts segmentation performance.
+- [BerDiff: Conditional Bernoulli Diffusion Model for Medical Image Segmentation](URL_not_found) – **Chen et al., arXiv (Apr 2023)**  
+- [MedSegDiff‑V2: Diffusion‑based Medical Image Segmentation with Transformer](URL_not_found) – **Wu et al., arXiv (Jan 2023)**  
+- [Diff‑UNet: A Diffusion Embedded Network for Volumetric Segmentation](URL_not_found) – **Xing et al., arXiv (Mar 2023)**  
+- [DDMM‑Synth: Denoising Diffusion Model for Cross‑modal Medical Image Synthesis](URL_not_found) – **Li et al., arXiv (Mar 2023)**  
+- [DiffBoost: Enhancing Medical Image Segmentation via Text‑Guided Diffusion Model](URL_not_found) – **Zhang et al., arXiv (Oct 2023)**  
 
 ### 🗓️ 2022 – Medical Diffusion Models
 
-- **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** – Wu et al., arXiv (Nov 2022)  
-  A **DDPM‑based segmentation** framework with step‑aware encoding and frequency filtering, achieving SOTA results on fundus, MRI, and ultrasound datasets.
+- [MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model](https://arxiv.org/pdf/2211.00611) – **Wu et al., arXiv (Nov 2022)**  
+- [Diffusion Models for Implicit Image Segmentation Ensembles]([URL_not_found](https://proceedings.mlr.press/v172/wolleb22a/wolleb22a.pdf)) – **Wolleb et al., MIDL 2022**  
+- [Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation](https://arxiv.org/pdf/2211.03364) – **Khader et al., arXiv (Nov 2022)**  
+- [Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_67) – **Pinaya et al., MICCAI 2022**  
+- [Diffusion Adversarial Representation Learning for Self‑supervised Vessel Segmentation](https://arxiv.org/pdf/2209.14566) – **Kim & Ye, arXiv (Sept 2022)**
 
-- **Diffusion Models for Implicit Image Segmentation Ensembles** – Wolleb et al., MIDL 2022  
-  Generates multiple segmentation masks via diffusion sampling and computes **uncertainty maps** for brain tumor segmentation (BRATS2020).
-
-- **Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation** – Khader et al., arXiv (Nov 2022)  
-  Uses **DDPM** to generate realistic 3D CT/MRI volumes; improves segmentation via synthetic‑data pre‑training.
-
-- **Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models** – Pinaya et al., MICCAI 2022  
-  Employs **latent diffusion** for unsupervised anomaly detection and segmentation on brain MRI without any labeled data.
-
-- **Diffusion Adversarial Representation Learning for Self‑supervised Vessel Segmentation** – Kim & Ye, arXiv (Sept 2022)  
-  A **self‑supervised DDIM-based** approach for vessel segmentation using adversarially trained feature representations.
 
 ## 🛠 Useful Libraries & Tools
 
