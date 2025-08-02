@@ -58,8 +58,8 @@ A curated list of **review papers and resources** on diffusion models in **machi
 - [Latent Diffusion for Medical Image Segmentation: End to end learning for fast sampling and accuracy](https://arxiv.org/pdf/2407.12952) – **Zaman et al., arXiv (Jul 2024)**  
 - [HiDiff: Hybrid Diffusion for Medical Image Segmentation](https://arxiv.org/pdf/2407.03548) – **Chen et al., arXiv (Jul 2024)**  
 - [Polyp‑DDPM: Semantic Polyp Synthesis for Enhanced Segmentation](https://arxiv.org/pdf/2402.04031) – **Dorjsembe et al., arXiv (Feb 2024)**  
-- [Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models](https://arxiv.org/pdf/2402.05210) – **Konz et al., MICCAI 2024**  
-- [Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process](https://arxiv.org/pdf/2406.18361) – **MICCAI 2024**  
+- [Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models](https://arxiv.org/pdf/2402.05210) – **Konz et al., arXiv 2024**  
+- [Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process](https://arxiv.org/pdf/2406.18361) – **arXiv 2024**  
 
 ### 🩺 2023 
 
