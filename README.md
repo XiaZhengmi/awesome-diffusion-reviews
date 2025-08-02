@@ -1,5 +1,4 @@
-# 🌀 Awesome Diffusion Review Papers
-
+# 🌀 Awesome Review Papers on Diffusion Models
 A curated list of **review papers and resources** on diffusion models in **machine learning**, **computer vision**, and **generative AI**.
 
 ---
