@@ -39,6 +39,7 @@ A curated list of **review papers and resources** on diffusion models in **machi
 ### 🗓️ 2022
 
 - [Diffusion models for medical image analysis: A comprehensive survey](https://arxiv.org/pdf/2211.07804) – **A. Kazerouni et al.** 🩺 **Medical**
+- [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/pdf/2208.11970) - **C. Luo** 
 
 ---
 
