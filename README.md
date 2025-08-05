@@ -108,3 +108,5 @@ Just click the link above and follow the instructions to get started in your bro
 ## 🤝 Contributing
 
 Feel free to open issues or pull requests to add new review papers or tutorials on diffusion models!
+
+**Tags:** #AI #DeepLearning #OpenSource #IoT #Blockchain #Sustainability #Featureselection #optimization #medicaldata #crossentropyloss #scaleoptimization #diffusionmodels #reviewondiffusionmodels #medicalapplicationofml #ml #flowmatching #ddpm #ddim #scorediffusion #sde #sdediffusion 
