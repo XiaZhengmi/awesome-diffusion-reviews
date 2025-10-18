@@ -101,7 +101,7 @@
 ---
 
 **Tags:**  
-#AI #DeepLearning #OpenSource #IoT #Blockchain #Sustainability  
-#FeatureSelection #Optimization #MedicalData #CrossEntropyLoss  
-#ScaleOptimization #DiffusionModels #Survey #MedicalAI  
-#FlowMatching #DDPM #DDIM #ScoreDiffusion #SDE
+#diffusion-models #stable-diffusion #latent-diffusion #ddpm #denoising-diffusion #score-based-models #generative-models #deep-learning #machine-learning #computer-vision #ai-research #dl-research #neural-networks #tutorial #survey #research-paper #ai-healthcare #medical-ai #healthcare-ai #medical-imaging #fundus-imaging #retinal-imaging #diabetic-retinopathy #image-generation #pytorch #openai #github #awesome-list #ai-reading-list
+
+#扩散模型 #稳定扩散 #潜在扩散模型 #去噪扩散模型 #生成模型 #深度学习 #机器学习 #计算机视觉 #神经网络 #科研 #综述 #医学人工智能 #医疗AI #医学影像 #医学图像处理 #医疗健康 #人工智能入门 #AI学习 #图像生成 #研究论文 #PyTorch #开源项目 #GitHub项目 #人工智能研究 #AI算法 #学术分享
+
