@@ -7,6 +7,10 @@
 ---
 
 ## 按年份分类的综述论文 Review Papers by Year
+### 2026
+- [On the Design Fundamentals of Diffusion Models: A Survey](https://research.birmingham.ac.uk/en/publications/on-the-design-fundamentals-of-diffusion-models-a-survey) – **Chang et al.** 
+- [A Systematic Review of Diffusion Models for Medical Image‑Based Diagnosis: Methods, Taxonomies, Clinical Integration, Explainability, and Future Directions]([https://www.mdpi.com/2075-4418/16/2/211](https://www.mdpi.com/2075-4418/16/2/211/pdf?version=1767948086)) – **Azad et al.** 医学
+- [Graph Diffusion Models: A Comprehensive Survey of Methods and Applications]([https://www.sciencedirect.com/science/article/pii/S1574013725001303](https://www.sciencedirect.com/science/article/pii/S1574013725001303)) – **Shou et al.**
 
 ### 2025
 - [Diffusion models in low-level vision: A survey](https://ieeexplore.ieee.org/iel8/34/4359286/10902142.pdf) – **C. He et al.**
