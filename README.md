@@ -8,6 +8,7 @@
 
 ## 按年份分类的综述论文 Review Papers by Year
 ### 2026
+- [Fusing LLMs and diffusion models: A comprehensive survey of progress, challenges, and future directions in generative AI](https://www.sciencedirect.com/science/article/abs/pii/S1574013725001571?utm_source=chatgpt.com) – **Benjdira et al.**
 - [On the Design Fundamentals of Diffusion Models: A Survey](https://www.sciencedirect.com/science/article/pii/S0031320325005941) – **Chang et al.** 
 - [A Systematic Review of Diffusion Models for Medical Image‑Based Diagnosis: Methods, Taxonomies, Clinical Integration, Explainability, and Future Directions](https://www.mdpi.com/2075-4418/16/2/211/pdf?version=1767948086) – **Azad et al.** 医学
 - [Graph Diffusion Models: A Comprehensive Survey of Methods and Applications](https://www.sciencedirect.com/science/article/pii/S1574013725001303) – **Shou et al.**
@@ -22,6 +23,9 @@
 - [Comprehensive exploration of diffusion models in image generation: a survey](https://link.springer.com/content/pdf/10.1007/s10462-025-11110-3.pdf) – **H. Chen et al.**
 - [Diffusion Models for Computational Neuroimaging: A Survey](https://arxiv.org/pdf/2502.06552) - **H Zhao et al.** 医学
 - [Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/abs/2505.07866) – **Abdullah et al.** 医学
+- [A Survey on Diffusion Language Models](https://arxiv.org/pdf/2508.10875) – **Li et al.**
+- [Diffusion Models for Time Series Forecasting: A Survey](https://arxiv.org/abs/2508.10875) – **Su et al.**
+- [Diffusion Models for Future Networks and Communications: A Comprehensive Survey](https://arxiv.org/pdf/2508.01586) – **Luong et al.**
 
 ---
 
