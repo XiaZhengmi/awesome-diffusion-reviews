@@ -43,8 +43,35 @@
 - [Diffusion models for medical image analysis: A comprehensive survey](https://arxiv.org/pdf/2211.07804) – **A. Kazerouni et al.** 医学
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/pdf/2208.11970) - **C. Luo**
 
----
+# Hottest and most promising research directions in Diffusion models for 2026
+## Based on accepted papers in ICLR 2026
+### Diffusion + Reinforcement Learning (Huge Trend)
+- [DiffusionNFT: Online Diffusion Reinforcement with Forward Process]
+- [Exploratory Diffusion Model for Unsupervised RL]
+- [Diffusion Fine-Tuning via Reparameterized Policy Gradient]
+- [Accelerating Diffusion Planners in Offline RL]
+- [GlobeDiff: State Diffusion for Multi-Agent Systems]
+- [Consolidating RL for Multimodal Discrete Diffusion]
 
+### Diffusion Language Models (DLMs)
+- [On the Reasoning Abilities of Masked Diffusion Language Models]
+- [Diffusion Language Model Knows the Answer Before It Decodes]
+- [Scaling Behavior of Discrete Diffusion LMs]
+- [DPad: Efficient Diffusion LMs with Suffix Dropout]
+- [DiffuCoder]
+- [Soft-Masked Diffusion LMs]
+- [Deletion-Insertion Diffusion LMs]
+- [Diffusion LMs for Code Infilling]
+
+### Inference-Time Scaling and Sampling Algorithms
+Classical search during sampling
+Error-aware ODE solvers
+Dual-solver methods
+SlowFast sampling
+Embedded Runge-Kutta guidance
+Drift control
+Importance weighting
+Curriculum samplers
 ## 医学扩散模型 Medical Diffusion Models
 
 ### 2025
